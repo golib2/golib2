@@ -1,56 +1,34 @@
-<h1 align="center">Hi 👋, I'm G'olibjon</h1>
-<h3 align="center">Frontend Developer • Telegram Bot • SAKURA TV</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF2E63&center=true&vCenter=true&width=500&lines=Frontend+Developer;JavaScript+Learner;Telegram+Mini+App+Creator;SAKURA+TV+Project" />
-</p>
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:E50914&height=220&section=header&text=G'olibjon%20Abduvahobov&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%E2%80%A2%20HTML%20%E2%80%A2%20CSS%20%E2%80%A2%20JavaScript&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
----
+<!-- Typing Animation -->
+<a href="https://github.com/Golib2">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=E50914&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Web+Interfaces;Telegram+Mini+Apps+Enthusiast" alt="Typing SVG" />
+</a>
 
-### 🚀 About Me
+<br/>
 
-- 🌸 Creator of **SAKURA TV**
-- 💻 Learning **HTML, CSS & JavaScript**
-- 🤖 Building **Telegram Bots & Mini Apps**
-- 🎯 Goal: Become a Full Stack Developer
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=Golib2&label=Profile%20Views&color=E50914&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Golib2?label=Followers&style=flat-square&color=E50914&labelColor=0d0d0d" alt="Followers" />
 
----
-
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<!-- About Me -->
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## <span style="color:#E50914;">⟨ / ⟩</span> About Me
 
----
+</div>
 
-### 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://t.me/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+```yaml
+name: G'olibjon Abduvahobov
+located_in: Uzbekistan
+role: Frontend Developer
+focus: Building modern web interfaces
+currently_learning: JavaScript & API Integration
+interests: UI/UX Design, Telegram Mini Apps
